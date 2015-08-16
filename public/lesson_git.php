@@ -380,7 +380,8 @@ so now if we want to bring the remote origin/master local into our master we nee
 
 To have connection to github and not having to type your username and password over and over
 <span><a href="https://help.github.com/articles/generating-ssh-keys/">Setting SSH</a> </span>
-
+                <br>
+  <span><a href="https://help.github.com/articles/changing-a-remote-s-url/"> to change remote between https and SSH</a> </span>
                 <pre></pre>
 
         <pre></pre>
@@ -388,6 +389,7 @@ To have connection to github and not having to type your username and password o
         <pre></pre>
 
         <pre></pre>
+
 
 
 
