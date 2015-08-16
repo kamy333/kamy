@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".htaccess" server="93.88.240.147." local="130745425670489743" remote="130751470200000000" Dst="2" />
+<file name="built-in1.php" server="93.88.240.147." local="130745425670920045" remote="130751470200000000" Dst="2" />
+<file name="built-in2.php" server="93.88.240.147." local="130745425671420404" remote="130751470200000000" Dst="2" />
+<file name="built-in3.php" server="93.88.240.147." local="130745425671740632" remote="130751470200000000" Dst="2" />
+<file name="custom_function.php" server="93.88.240.147." local="130745425672361069" remote="130751470200000000" Dst="2" />
+<file name="error-semicolon.php" server="93.88.240.147." local="130745425672981510" remote="130751470200000000" Dst="2" />
+<file name="error_double-colon.php" server="93.88.240.147." local="130745425673641979" remote="130751470200000000" Dst="2" />
+<file name="error_encapsed.php" server="93.88.240.147." local="130745425674002235" remote="130751470200000000" Dst="2" />
+<file name="error_headers1.php" server="93.88.240.147." local="130745425674662709" remote="130751470200000000" Dst="2" />
+<file name="error_headers2.php" server="93.88.240.147." local="130745425675363207" remote="130751470200000000" Dst="2" />
+<file name="error_missing-brace.php" server="93.88.240.147." local="130745425676313878" remote="130751470200000000" Dst="2" />
+<file name="error_undefined-index.php" server="93.88.240.147." local="130745425676984354" remote="130751470200000000" Dst="2" />
+<file name="include.php" server="93.88.240.147." local="130745425677424672" remote="130751470200000000" Dst="2" />
+<file name="objects.php" server="93.88.240.147." local="130745425677874992" remote="130751470200000000" Dst="2" />
+<file name="pass_by_reference.php" server="93.88.240.147." local="130745425678475414" remote="130751470200000000" Dst="2" />
+<file name="require.php" server="93.88.240.147." local="130745425678885710" remote="130751470200000000" Dst="2" />
+</dwsync>
