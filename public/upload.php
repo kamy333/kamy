@@ -79,22 +79,22 @@ if(isset($_POST['submit'])) {
 <!--		--><?php //if(!empty($message)) { echo "<p>{$message}</p>"; } ?>
 
 <p>
-<?php if(isset($upload_dir) && isset($target_file)) { ?>
-    <a href="<?php echo "../uploads/".$target_file ?>"><?php echo $target_file ?></a>
+<?php /*if(isset($upload_dir) && isset($target_file)) { */?><!--
+    <a href="<?php /*echo "../uploads/".$target_file */?>"><?php /*echo $target_file */?></a>
     <br>
     <?php
-    echo "<strong>fileperms my dir</strong> ".substr(decoct(fileperms($upload_dir)), 2)."<br>";
+/*    echo "<strong>fileperms my dir</strong> ".substr(decoct(fileperms($upload_dir)), 2)."<br>";
     echo "<strong>fileperms</strong> ".substr(decoct(fileperms($path_filenme)), 2)."<br>";
     echo "<strong>tmp_file</strong> ". $tmp_file."<br>";
     echo "<strong>fileperms tmp_file</strong> ".substr(decoct(fileperms($tmp_file)), 2)."<br>";
     echo "<strong>Target_file</strong> ".$target_file."<br>";
     echo "<strong>upload_dir</strong> ".$upload_dir."<br>" ;
     echo "<strong>full_path</strong> ".$path_filenme."<br>";
-    ?>
-<?php }?>
+    */?>
+--><?php /*}*/?>
 </p>
 
-<p><a href="../includes/config.php">php info</a> </p>
+<!--<p><a href="../includes/config.php">php info</a> </p>-->
 
 	<div class="row">
 		<div class="col-md-6 col-md-offset-2 col-lg-7 col-lg-offset-2">
