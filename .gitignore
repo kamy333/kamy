@@ -35,3 +35,5 @@ $RECYCLE.BIN/
 
 *.jpg
 db_connection.php
+config.php
+log.text
